@@ -1,16 +1,7 @@
 
 # Overview
 
-A Docker (PHP + Nginx + MySQL) development environment tailored to my personal needs.
-
-# License
-
-This project is licensed under the MIT License.
-
-# Author
-
-**Leo B (dcomp7)**  
-[Github profile](https://github.com/dcomp7)
+A Docker container (PHP + Nginx + MySQL) tailored to my personal needs.
 
 
 # Installation Guide
@@ -112,3 +103,10 @@ This project is licensed under the MIT License.
     - Virtual Hosts: `./nginx/sites` (mapped to `/etc/nginx/conf.d`)
     - MySQL Binary Tables: `./mysql/data`
 
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Author
+
+Developed by [@dcomp7](http://github.com/dcomp7)
